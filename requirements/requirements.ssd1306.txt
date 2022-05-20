@@ -1,0 +1,2 @@
+adafruit-circuitpython-ssd1306  # 2.12.4
+adafruit-circuitpython-busdevice  # 5.1.8

@@ -2,6 +2,8 @@
 
 A code workspace for the [Adafruit QT Pi SAMD21 Dev Board][qt-pi].
 
+![Adafruit QT Py SAMD21 pinout](static/img/Adafruit_QT_Py_SAMD21_pinout.png)
+
 ## Configuration
 
 ### Bootloader
